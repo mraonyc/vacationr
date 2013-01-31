@@ -1,0 +1,2 @@
+
+GOOGLEKEY = 'AIzaSyD716hh2rKj-NfLrh6PPxaVHH-Ly7CieuI'
